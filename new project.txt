@@ -1,0 +1,53 @@
+<div class="logo">
+  <span>L</span>
+  <span>I</span>
+  <span>F</span>
+  <span>E</span>
+</div>
+<div class="wrapper">
+  <div class="card">
+    <div class="inner">
+      <img src="https://images.unsplash.com/photo-1525908034958-2c082cd0fed2?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="superstar" class="career-img">
+      <div class="career bg--orange">
+        <p>Superstar</p>
+      </div>
+      <span class="career-icon bg--orange"><svg width="24" height="24" viewBox="0 0 24 24">
+  <path d="M12,17.27L18.18,21L16.54,13.97L22,9.24L14.81,8.62L12,2L9.19,8.62L2,9.24L7.45,13.97L5.82,21L12,17.27Z"></path>
+</svg></span>
+    </div>
+  </div>
+  <div class="card">
+    <div class="inner">
+      <img src="https://images.unsplash.com/photo-1524850011238-e3d235c7d4c9?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="travel agent" class="career-img">
+      <div class="career bg--pink">
+        <p>Travel Agent</p>
+      </div>
+      <span class="career-icon bg--pink"><svg width="24" height="24" viewBox="0 0 24 24">
+    <path d="M2.5,19H21.5V21H2.5V19M22.07,9.64C21.86,8.84 21.03,8.36 20.23,8.58L14.92,10L8,3.57L6.09,4.08L10.23,11.25L5.26,12.58L3.29,11.04L1.84,11.43L3.66,14.59L4.43,15.92L6.03,15.5L11.34,14.07L15.69,12.91L21,11.5C21.81,11.26 22.28,10.44 22.07,9.64Z" />
+</svg></span>
+    </div>
+  </div>
+  <div class="card">
+    <div class="inner">
+      <img src="https://images.unsplash.com/photo-1549980384-d61217e50c4b?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="teacher" class="career-img">
+      <div class="career bg--green">
+        <p>Teacher</p>
+      </div>
+      <span class="career-icon bg--green"><svg style="width:24px;height:24px" viewBox="0 0 24 24">
+    <path d="M20,10C22,13 17,22 15,22C13,22 13,21 12,21C11,21 11,22 9,22C7,22 2,13 4,10C6,7 9,7 11,8V5C5.38,8.07 4.11,3.78 4.11,3.78C4.11,3.78 6.77,0.19 11,5V3H13V8C15,7 18,7 20,10Z" />
+</svg></span>
+      <p class="degree">Degree required</p>
+    </div>
+  </div>
+  <div class="card">
+    <div class="inner">
+      <img src="https://images.unsplash.com/photo-1508921108053-9f757ead871c?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ" alt="web developer" class="career-img">
+      <div class="career bg--blue">
+        <p>Web Developer</p>
+      </div>
+      <span class="career-icon bg--blue"><svg style="width:24px;height:24px" viewBox="0 0 24 24">
+    <path d="M14.6,16.6L19.2,12L14.6,7.4L16,6L22,12L16,18L14.6,16.6M9.4,16.6L4.8,12L9.4,7.4L8,6L2,12L8,18L9.4,16.6Z" />
+</svg></span>
+    </div>
+  </div>
+</div>
