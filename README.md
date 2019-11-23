@@ -1,6 +1,6 @@
 # Healthylife
 Have you ever wondered about the definition of health? How can a person be healthy? According to the World Health Organization (WHO), health is “a complete state of physical, mental and social well-being, not merely the absence of illness or disability”. We offer a list of steps that can help you if you follow a healthy life.
-## Intallation
+## Installation
 clone the GitHub repository and use Bundler to install the gem dependencies.
  >  $git clone https://github.com/Lwahez877/Healthylife.git
  >>  $cd ledbetter
