@@ -1,16 +1,16 @@
 # Healthylife
 Have you ever wondered about the definition of health? How can a person be healthy? According to the World Health Organization (WHO), health is “a complete state of physical, mental and social well-being, not merely the absence of illness or disability”. We offer a list of steps that can help you if you follow a healthy life.
-##Intallation
+## Intallation
 clone the GitHub repository and use Bundler to install the gem dependencies.
    $git clone https://github.com/Lwahez877/Healthylife.git
    $cd ledbetter
    $bundle install
-## Extra Features 
+### Extra Features 
 *   Added `constructor` and `variable` for color.
 *   Added `boolean variable` `isFullOption` to calculate the extra price for luxury options.
 *   Added a `car object` using the `color constructor`.
 *   `ChangeColor()` function is used to change the text color.
-### Example of using the code
+#### Example of using the code
 ```html
  <!-- Header -->
 <header  style="max-width:1600px;min-width:500px" id="home">
@@ -20,5 +20,5 @@ clone the GitHub repository and use Bundler to install the gem dependencies.
   </div>
 </header>
 ```
-#### Support
+##### Support
 >You can contact me via Emile **Lwahez21@gmail.com**
