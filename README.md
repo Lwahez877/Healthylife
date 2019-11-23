@@ -3,8 +3,8 @@ Have you ever wondered about the definition of health? How can a person be healt
 ## Intallation
 clone the GitHub repository and use Bundler to install the gem dependencies.
  >  $git clone https://github.com/Lwahez877/Healthylife.git
- >  $cd ledbetter
->   $bundle install
+ >>  $cd ledbetter
+>>> $bundle install
 ### Extra Features 
 *   Added `constructor` and `variable` for color.
 *   Added `boolean variable` `isFullOption` to calculate the extra price for luxury options.
